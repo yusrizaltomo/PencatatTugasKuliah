@@ -1,7 +1,4 @@
-# UAS-PWEB
-File UAS Pweb
-
-Kodingan file UAS yang lebih rapih (mungkin)
+# Aplikasi Web Pencatat Tugas Kuliah
 
 paste folder Aplikasi Pencatat Tugas Kuliah ke folder htdocs jika menggunakan XAMPP
 
